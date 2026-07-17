@@ -1,0 +1,6 @@
+---
+aliases:
+  - CSTR
+cssclasses:
+  - Empty
+---
