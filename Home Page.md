@@ -6,10 +6,6 @@ node_size: "5"
 ---
 This is a wiki-style compendium of knowledge accrued through study at Queen's University engineering chemistry degree starting from 2023 up until 2027. Some of the exact course contents may have become outdated, but core concepts will likely still prove useful. Some courses taken will have sparse notes, or not appear here due to a lack of good note-taking practices at the time of completion.
 
-Any suggestions and/or questions can be directed to **Placeholder: alternate email**. I will try to fix mistakes and provide clarity as they come up, and will email back which pages have been changed/added. Please keep in mind that this is a resource that is updated for free, and I will not always be able to address concerns in a timely fashion.
-
-On that note, if any pages are empty and you feel it would be worth your time to contribute, it would be welcome and would be posted immediately after a cursory read. These articles will be labelled as user submitted until a thorough review can be done. If a contributor would like to have credit, I will post it at the top of the submitted page.
-
 
 Below you will find courses organized in three different ways, by [[Home Page#Courses by Level (200, 300, 400)|course level]], [[Home Page#Courses by Content|learning paths]], and [[Home Page#Courses By Semester|chronological order]].
 
