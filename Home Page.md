@@ -2,7 +2,7 @@
 tags:
 cssclasses:
   - Home
-node_size: "5"
+aliases:
 ---
 This is a wiki-style compendium of knowledge accrued through study at Queen's University engineering chemistry degree starting from 2023 up until 2027. Some of the exact course contents may have become outdated, but core concepts will likely still prove useful. Some courses taken will have sparse notes, or not appear here due to a lack of good note-taking practices at the time of completion.
 
