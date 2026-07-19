@@ -1,0 +1,37 @@
+{
+  "unlockedSpecies": [
+    "bluebird",
+    "tuftedTitmouse",
+    "carolinaWren",
+    "pigeon",
+    "barnSwallow",
+    "houseFinch",
+    "redCardinal",
+    "blueJay",
+    "americanRobin",
+    "darkEyedJunco",
+    "europeanRobin",
+    "americanGoldfinch",
+    "elegantEuphonia",
+    "blackCappedChickadee",
+    "shimaEnaga",
+    "redWarbler",
+    "scarletRobin",
+    "redAvadavat",
+    "mistletoebird",
+    "violetBackedStarling",
+    "cubanTody",
+    "spangledCotinga",
+    "pinkRobin"
+  ],
+  "currentSpecies": "violetBackedStarling",
+  "unlockedHats": [
+    "none",
+    "cordovan-hat",
+    "sun-hat"
+  ],
+  "currentHat": "none",
+  "settings": {
+    "birbScaleMultiplier": 1
+  }
+}
