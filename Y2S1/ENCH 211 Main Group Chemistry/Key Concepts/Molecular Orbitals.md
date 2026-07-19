@@ -11,3 +11,4 @@ The introduction to molecular orbitals begins by analyzing the bond formed betwe
 
 The energy of the orbitals increases through the y-axis, and as the atomic orbitals fill the lowest energy orbitals first, we get bonding orbitals from that energy difference. The molecular orbitals that have a higher energy than the individual atomic orbitals become anti-bonding, denoted as either σ* or π*, as it is energetically favorable for the atoms to separate. Due to that increased energy, it becomes energetically favorable for the atom to separate, and as such bonding is a result of a tipped balance between bonding and anti-bonding orbitals.
 
+test
