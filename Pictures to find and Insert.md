@@ -1,0 +1,2 @@
+- picture outlining main group elements [[Main Group Elements]]
+- Mulliken symbol molecular orbital diagram [[Advanced Molecular Orbitals]]

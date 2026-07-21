@@ -11,9 +11,5 @@ An introduction to the properties of [[Main Group Elements|main group]] chemistr
 [[Molecular Geometry]]
 [[Molecular Orbitals]]
 [[Point Groups]]
-
-
-
-The concept below is an advanced concept that might be covered in a very simplistic view in this course. The extent to which this may be covered in the course is a central atom surrounded by two to four other atoms. Complex computational methods are required for anything more complex, and even the methods in this course, when used for small molecules will likely be vague approximations.
-
 [[Ligand-Group Orbitals]]
+[[Advanced Molecular Orbitals]]
