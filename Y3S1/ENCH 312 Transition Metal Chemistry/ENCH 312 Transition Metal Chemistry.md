@@ -3,7 +3,6 @@ cssclasses:
   - Overview
   - WIP
 tags:
-  - Y3S1
 ---
 Course Description
 
