@@ -34,6 +34,7 @@
   ],
   "currentHat": "none",
   "settings": {
-    "birbScaleMultiplier": 1
+    "birbScaleMultiplier": 1,
+    "birbMode": false
   }
 }

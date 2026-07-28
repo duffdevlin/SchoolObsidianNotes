@@ -10,58 +10,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "2d2b4bcee7abb766",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Y3S2/CHEE 331 Design of Unit Operations/Lectures/Lecture 17 Plate Hydraulics.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Lecture 17 Plate Hydraulics"
-                }
-              },
-              {
-                "id": "16500630b55428c6",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Textbooks/Chemical Engineering Design, Principles, and Practice, Towler PhD, Gavin, Sinnott, and Ray.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Chemical Engineering Design, Principles, and Practice, Towler PhD, Gavin, Sinnott, and Ray"
-                }
-              },
-              {
-                "id": "d51d0e103d71421f",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              },
-              {
-                "id": "d6ed4614f6baeb39",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Ancient Greek/A Student Handbook of Greek and English Grammar.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "A Student Handbook of Greek and English Grammar"
-                }
-              },
-              {
-                "id": "b3da88cfa17d13d9",
+                "id": "6c356b0ce050c687",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "School/Y3S2/CHEE 331 Design of Unit Operations/CHEE 331 Design of Unit Operations.md",
+                    "file": "Y3S2/CHEE 363 Electrochemical Engineering/CHEE 363 Electrochemical Engineering.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -76,16 +30,435 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "CHEE 331 Design of Unit Operations"
+                  "title": "CHEE 363 Electrochemical Engineering"
                 }
               },
               {
-                "id": "25b885d4f0ca6fdd",
+                "id": "a9959e022c4ce626",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "School/Home Page.md",
+                    "file": "Y3S2/CHEE 363 Electrochemical Engineering/Key Concepts/Electrochemical Cell Design.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Electrochemical Cell Design"
+                }
+              },
+              {
+                "id": "6c89ce4c00abcb1f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Home Page.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Home Page"
+                }
+              },
+              {
+                "id": "f4648f7705822c09",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Y3S2/CHEE 363 Electrochemical Engineering/Key Concepts/Half-Cells.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Half-Cells"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "2c6e015dcc20fd34",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5a795829aeb864f5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Interested Comp Elec Times.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Interested Comp Elec Times"
+                }
+              },
+              {
+                "id": "5ac3ecd2c1bd119d",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Lectures/Y3S2/CHEE 363 Electrochemical Engineering/Lecture 12 Capacitors.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Lecture 12 Capacitors"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "a0973f49dafff761",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "29deb4b25b8c8814",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "e3d525cb5ab7dd94",
+        "type": "split",
+        "children": [
+          {
+            "id": "04651ff881efedb5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5f23b47690c84bc8",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "0f98d474ffdc34eb",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "e2149df240ddd73e",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 444.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "0b4e4c266ade0393",
+        "type": "split",
+        "children": [
+          {
+            "id": "9edaec5c5592699d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "737776fe4da1d618",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": true,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks"
+                }
+              },
+              {
+                "id": "4bce886c9c355397",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links"
+                }
+              },
+              {
+                "id": "f302df07cf5602e7",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "bd846e77cfb9699a",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Personal/Private School Stuff/Email Drafts/Escobedo Summer Follow Up.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Escobedo Summer Follow Up"
+                }
+              },
+              {
+                "id": "73c24077ceb74f64",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "cb2218eb3620ed47",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Lectures/Y3S2/CHEE 363 Electrochemical Engineering/Lecture 12 Capacitors.pdf"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for Lecture 12 Capacitors"
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 293.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "bases:Create new base": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "homepage:Open homepage": false,
+          "workspaces:Manage workspace layouts": false,
+          "audio-recorder:Start/stop recording": false,
+          "git-vault-sync:Git Vault Sync: Sync vault": false,
+          "git-vault-sync:Git Vault Sync: Review changes & sync": false
+        }
+      },
+      "active": "5ac3ecd2c1bd119d",
+      "mtime": "2026-07-28T03:51:54-04:00"
+    },
+    "Personal": {
+      "main": {
+        "id": "d10d52a1a7797569",
+        "type": "split",
+        "children": [
+          {
+            "id": "8e45e6d9b9e20880",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2d2b4bcee7abb766",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Personal/Gym/New Workout Routine.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "New Workout Routine"
+                }
+              },
+              {
+                "id": "239e4e620c951a3f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Personal/Food & Groceries/Foods We Like.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Foods We Like"
+                }
+              },
+              {
+                "id": "098322cd91af8294",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Personal/OSAP Shopping List.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "OSAP Shopping List"
+                }
+              },
+              {
+                "id": "30be2efcd0cfaede",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Personal/Gym/Gym Supplies.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Gym Supplies"
+                }
+              },
+              {
+                "id": "837aa0cbd279dd23",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Home Page.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -104,7 +477,7 @@
                 }
               }
             ],
-            "currentTab": 5
+            "currentTab": 4
           }
         ],
         "direction": "vertical"
@@ -251,250 +624,10 @@
                 "state": {
                   "type": "file-properties",
                   "state": {
-                    "file": "School/Home Page.md"
+                    "file": "Personal/Gym/Gym Supplies.md"
                   },
                   "icon": "lucide-info",
-                  "title": "File properties for Home Page"
-                }
-              }
-            ],
-            "currentTab": 5
-          }
-        ],
-        "direction": "horizontal",
-        "width": 293.5
-      },
-      "left-ribbon": {
-        "hiddenItems": {
-          "bases:Create new base": false,
-          "switcher:Open quick switcher": false,
-          "graph:Open graph view": false,
-          "canvas:Create new canvas": false,
-          "daily-notes:Open today's daily note": false,
-          "templates:Insert template": false,
-          "command-palette:Open command palette": false,
-          "homepage:Open homepage": false,
-          "workspaces:Manage workspace layouts": false
-        }
-      },
-      "active": "5f23b47690c84bc8",
-      "mtime": "2026-05-18T13:47:12-04:00"
-    },
-    "Personal": {
-      "main": {
-        "id": "d10d52a1a7797569",
-        "type": "split",
-        "children": [
-          {
-            "id": "8e45e6d9b9e20880",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2d2b4bcee7abb766",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Personal/Previous Workout Routines.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Previous Workout Routines"
-                }
-              }
-            ]
-          },
-          {
-            "id": "00625d671b4477fb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "098322cd91af8294",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Personal/Potential New Workout Routines.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Potential New Workout Routines"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical"
-      },
-      "left": {
-        "id": "e3d525cb5ab7dd94",
-        "type": "split",
-        "children": [
-          {
-            "id": "04651ff881efedb5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5f23b47690c84bc8",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {
-                    "sortOrder": "alphabetical",
-                    "autoReveal": false
-                  },
-                  "icon": "lucide-folder-closed",
-                  "title": "Files"
-                }
-              },
-              {
-                "id": "0f98d474ffdc34eb",
-                "type": "leaf",
-                "state": {
-                  "type": "search",
-                  "state": {
-                    "query": "",
-                    "matchingCase": false,
-                    "explainSearch": true,
-                    "collapseAll": true,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical"
-                  },
-                  "icon": "lucide-search",
-                  "title": "Search"
-                }
-              },
-              {
-                "id": "e2149df240ddd73e",
-                "type": "leaf",
-                "state": {
-                  "type": "bookmarks",
-                  "state": {},
-                  "icon": "lucide-bookmark",
-                  "title": "Bookmarks"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 356.5,
-        "collapsed": true
-      },
-      "right": {
-        "id": "0b4e4c266ade0393",
-        "type": "split",
-        "children": [
-          {
-            "id": "9edaec5c5592699d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "737776fe4da1d618",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": true,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-coming-in",
-                  "title": "Backlinks"
-                }
-              },
-              {
-                "id": "4bce886c9c355397",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-going-out",
-                  "title": "Outgoing links"
-                }
-              },
-              {
-                "id": "f302df07cf5602e7",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true,
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-tags",
-                  "title": "Tags"
-                }
-              },
-              {
-                "id": "bd846e77cfb9699a",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "followCursor": false,
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-list",
-                  "title": "Outline"
-                }
-              },
-              {
-                "id": "0f0dee5b8bd6db88",
-                "type": "leaf",
-                "state": {
-                  "type": "all-properties",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-archive",
-                  "title": "All properties"
-                }
-              },
-              {
-                "id": "8610f19d5f048643",
-                "type": "leaf",
-                "state": {
-                  "type": "file-properties",
-                  "state": {
-                    "file": "Personal/Potential New Workout Routines.md"
-                  },
-                  "icon": "lucide-info",
-                  "title": "File properties for Potential New Workout Routines"
+                  "title": "File properties for Gym Supplies"
                 }
               }
             ],
@@ -507,6 +640,9 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "audio-recorder:Start/stop recording": false,
+          "git-vault-sync:Git Vault Sync: Sync vault": false,
+          "git-vault-sync:Git Vault Sync: Review changes & sync": false,
           "bases:Create new base": false,
           "switcher:Open quick switcher": false,
           "graph:Open graph view": false,
@@ -518,8 +654,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "098322cd91af8294",
-      "mtime": "2026-05-19T20:23:15-04:00"
+      "active": "837aa0cbd279dd23",
+      "mtime": "2026-07-28T13:10:54-04:00"
     }
   },
   "active": "School"
