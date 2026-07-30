@@ -1,3 +1,0 @@
-- Winnipeg Jets - Manitoba
-- 
-- 
