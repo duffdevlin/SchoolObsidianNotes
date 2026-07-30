@@ -10,7 +10,7 @@
             "type": "tabs",
             "children": [
               {
-                "id": "6c356b0ce050c687",
+                "id": "cb5d6efb8d23b965",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -34,12 +34,12 @@
                 }
               },
               {
-                "id": "a9959e022c4ce626",
+                "id": "ae32381666e759db",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Y3S2/CHEE 363 Electrochemical Engineering/Key Concepts/Electrochemical Cell Design.md",
+                    "file": "Y3S2/CHEE 363 Electrochemical Engineering/Key Concepts/Electrochemical Reactor Design.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -54,16 +54,16 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Electrochemical Cell Design"
+                  "title": "Electrochemical Reactor Design"
                 }
               },
               {
-                "id": "6c89ce4c00abcb1f",
+                "id": "b224c159d2ae3cb1",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Home Page.md",
+                    "file": "Y3S2/CHEE 363 Electrochemical Engineering/Key Concepts/Battery & Fuel Cell Design.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -78,92 +78,16 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Home Page"
-                }
-              },
-              {
-                "id": "f4648f7705822c09",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Y3S2/CHEE 363 Electrochemical Engineering/Key Concepts/Half-Cells.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Half-Cells"
-                }
-              }
-            ]
-          },
-          {
-            "id": "2c6e015dcc20fd34",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5a795829aeb864f5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Interested Comp Elec Times.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Interested Comp Elec Times"
-                }
-              },
-              {
-                "id": "5ac3ecd2c1bd119d",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Lectures/Y3S2/CHEE 363 Electrochemical Engineering/Lecture 10 Batteries.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Lecture 10 Batteries"
+                  "title": "Battery & Fuel Cell Design"
                 }
               }
             ],
             "currentTab": 1
           },
           {
-            "id": "005181b74f714c20",
+            "id": "2c6e015dcc20fd34",
             "type": "tabs",
             "children": [
-              {
-                "id": "a795f21de2e8260f",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              },
               {
                 "id": "29deb4b25b8c8814",
                 "type": "leaf",
@@ -186,6 +110,46 @@
                   },
                   "icon": "lucide-file",
                   "title": "Electrochem Outline"
+                }
+              }
+            ]
+          },
+          {
+            "id": "778e3c1dd8156d64",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "697c052aae4d10ea",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              },
+              {
+                "id": "9a0e886e463a9b25",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Home Page.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Home Page"
                 }
               }
             ],
@@ -337,11 +301,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "file-properties",
-                  "state": {
-                    "file": "Lectures/Y3S2/CHEE 363 Electrochemical Engineering/Lecture 12 Capacitors.pdf"
-                  },
+                  "state": {},
                   "icon": "lucide-info",
-                  "title": "File properties for Lecture 12 Capacitors"
+                  "title": "File properties"
                 }
               }
             ],
@@ -368,8 +330,8 @@
           "git-vault-sync:Git Vault Sync: Review changes & sync": false
         }
       },
-      "active": "6c356b0ce050c687",
-      "mtime": "2026-07-28T14:46:02-04:00"
+      "active": "9a0e886e463a9b25",
+      "mtime": "2026-07-30T10:46:24-04:00"
     },
     "Personal": {
       "main": {
@@ -682,5 +644,5 @@
       "mtime": "2026-07-28T13:10:54-04:00"
     }
   },
-  "active": "School"
+  "active": "Personal"
 }

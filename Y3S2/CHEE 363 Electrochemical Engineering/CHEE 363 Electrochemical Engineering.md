@@ -8,8 +8,8 @@ Course Description
 
 
 # Key Concepts
-[[Half-Cells]]
-[[Electrochemical Cell Design]]
+[[Battery & Fuel Cell Design]]
+[[Electrochemical Reactor Design]]
 [[Capacitors]]
 [[Electrochemical Processes]]
 

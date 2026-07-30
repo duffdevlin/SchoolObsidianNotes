@@ -1,5 +1,4 @@
 ---
 cssclasses:
   - Empty
-  - Major
 ---

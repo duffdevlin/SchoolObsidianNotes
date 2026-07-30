@@ -4,8 +4,6 @@ cssclasses:
   - Home
 aliases:
 ---
-This is a wiki-style compendium of knowledge accrued through study at Queen's University engineering chemistry degree starting from 2023 up until 2027. Some of the exact course contents may have become outdated, but core concepts will likely still prove useful. Some courses taken will have sparse notes, or not appear here due to a lack of good note-taking practices at the time of completion.
-
 
 Below you will find courses organized in three different ways, by [[Home Page#Courses by Level (200, 300, 400)|course level]], [[Home Page#Courses by Content|learning paths]], and [[Home Page#Courses By Semester|chronological order]].
 
