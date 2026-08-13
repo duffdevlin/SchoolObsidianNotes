@@ -308,7 +308,7 @@
         }
       },
       "active": "100dd67abf4ed0d8",
-      "mtime": "2026-08-10T16:12:53-04:00"
+      "mtime": "2026-08-13T10:21:11-04:00"
     },
     "Personal": {
       "main": {
@@ -320,12 +320,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "2d2b4bcee7abb766",
+                "id": "ae32381666e759db",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Personal/Gym/New Workout Routine.md",
+                    "file": "Y3S2/CHEE 363 Electrochemical Engineering/Key Concepts/Electrochemical Reactor Design.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -340,16 +340,16 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "New Workout Routine"
+                  "title": "Electrochemical Reactor Design"
                 }
               },
               {
-                "id": "239e4e620c951a3f",
+                "id": "b224c159d2ae3cb1",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Personal/Food & Groceries/Foods We Like.md",
+                    "file": "Y3S2/CHEE 363 Electrochemical Engineering/Key Concepts/Battery & Fuel Cell Design.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -364,16 +364,22 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Foods We Like"
+                  "title": "Battery & Fuel Cell Design"
                 }
-              },
+              }
+            ]
+          },
+          {
+            "id": "2c6e015dcc20fd34",
+            "type": "tabs",
+            "children": [
               {
-                "id": "098322cd91af8294",
+                "id": "29deb4b25b8c8814",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Personal/OSAP Shopping List.md",
+                    "file": "Y3S2/CHEE 363 Electrochemical Engineering/Electrochem Outline.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -388,59 +394,11 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "OSAP Shopping List"
+                  "title": "Electrochem Outline"
                 }
               },
               {
-                "id": "30be2efcd0cfaede",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Personal/Gym/Gym Supplies.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Gym Supplies"
-                }
-              },
-              {
-                "id": "153df8f6585c9a10",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Personal/Maddy Medical Record Calling.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Maddy Medical Record Calling"
-                }
-              },
-              {
-                "id": "fded08cf2ac54be2",
+                "id": "100dd67abf4ed0d8",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -464,7 +422,23 @@
                 }
               }
             ],
-            "currentTab": 5
+            "currentTab": 1
+          },
+          {
+            "id": "778e3c1dd8156d64",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "697c052aae4d10ea",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
           }
         ],
         "direction": "vertical"
@@ -498,7 +472,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "untit",
+                    "query": "",
                     "matchingCase": false,
                     "explainSearch": true,
                     "collapseAll": true,
@@ -523,7 +497,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 356.5
+        "width": 444.5,
+        "collapsed": true
       },
       "right": {
         "id": "0b4e4c266ade0393",
@@ -585,16 +560,17 @@
                 "state": {
                   "type": "outline",
                   "state": {
+                    "file": "Personal/Private School Stuff/Email Drafts/Escobedo Summer Follow Up.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline"
+                  "title": "Outline of Escobedo Summer Follow Up"
                 }
               },
               {
-                "id": "0f0dee5b8bd6db88",
+                "id": "73c24077ceb74f64",
                 "type": "leaf",
                 "state": {
                   "type": "all-properties",
@@ -608,15 +584,13 @@
                 }
               },
               {
-                "id": "8610f19d5f048643",
+                "id": "cb2218eb3620ed47",
                 "type": "leaf",
                 "state": {
                   "type": "file-properties",
-                  "state": {
-                    "file": "Personal/Gym/Gym Supplies.md"
-                  },
+                  "state": {},
                   "icon": "lucide-info",
-                  "title": "File properties for Gym Supplies"
+                  "title": "File properties"
                 }
               }
             ],
@@ -629,9 +603,6 @@
       },
       "left-ribbon": {
         "hiddenItems": {
-          "audio-recorder:Start/stop recording": false,
-          "git-vault-sync:Git Vault Sync: Sync vault": false,
-          "git-vault-sync:Git Vault Sync: Review changes & sync": false,
           "bases:Create new base": false,
           "switcher:Open quick switcher": false,
           "graph:Open graph view": false,
@@ -640,11 +611,14 @@
           "templates:Insert template": false,
           "command-palette:Open command palette": false,
           "homepage:Open homepage": false,
-          "workspaces:Manage workspace layouts": false
+          "workspaces:Manage workspace layouts": false,
+          "audio-recorder:Start/stop recording": false,
+          "git-vault-sync:Git Vault Sync: Sync vault": false,
+          "git-vault-sync:Git Vault Sync: Review changes & sync": false
         }
       },
-      "active": "fded08cf2ac54be2",
-      "mtime": "2026-08-09T18:33:28-04:00"
+      "active": "100dd67abf4ed0d8",
+      "mtime": "2026-08-13T10:21:06-04:00"
     }
   },
   "active": "Personal"
