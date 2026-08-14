@@ -27,6 +27,3 @@ eng chem - diego in chemistry modifying gold with carbenes, surface chemistry on
 second semester for actual experimentation, psoter at the end
 
 
-Hi Dr. Escobedo,
-
-As we discussed earlier to
