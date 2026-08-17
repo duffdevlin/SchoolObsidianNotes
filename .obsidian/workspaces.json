@@ -320,85 +320,7 @@
             "type": "tabs",
             "children": [
               {
-                "id": "ae32381666e759db",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Y3S2/CHEE 363 Electrochemical Engineering/Key Concepts/Electrochemical Reactor Design.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Electrochemical Reactor Design"
-                }
-              },
-              {
-                "id": "b224c159d2ae3cb1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Y3S2/CHEE 363 Electrochemical Engineering/Key Concepts/Battery & Fuel Cell Design.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Battery & Fuel Cell Design"
-                }
-              }
-            ]
-          },
-          {
-            "id": "2c6e015dcc20fd34",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "29deb4b25b8c8814",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Y3S2/CHEE 363 Electrochemical Engineering/Electrochem Outline.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Electrochem Outline"
-                }
-              },
-              {
-                "id": "100dd67abf4ed0d8",
+                "id": "63187a18f13d07b6",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -419,23 +341,6 @@
                   },
                   "icon": "lucide-file",
                   "title": "Home Page"
-                }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "778e3c1dd8156d64",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "697c052aae4d10ea",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
                 }
               }
             ]
@@ -617,9 +522,9 @@
           "git-vault-sync:Git Vault Sync: Review changes & sync": false
         }
       },
-      "active": "100dd67abf4ed0d8",
-      "mtime": "2026-08-13T10:21:06-04:00"
+      "active": "63187a18f13d07b6",
+      "mtime": "2026-08-16T22:34:36-04:00"
     }
   },
-  "active": "Personal"
+  "active": "School"
 }
