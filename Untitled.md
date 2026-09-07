@@ -1,3 +1,0 @@
-Devlin
-A
-Duff
