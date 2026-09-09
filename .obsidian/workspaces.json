@@ -272,12 +272,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "63187a18f13d07b6",
+                "id": "2c37e0ec5a6eb6a8",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Home Page.md",
+                    "file": "Job Interview Talking Points.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -292,10 +292,107 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Home Page"
+                  "title": "Job Interview Talking Points"
+                }
+              },
+              {
+                "id": "855033e589d534e1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Personal/Todo When Internet is Back.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Todo When Internet is Back"
+                }
+              },
+              {
+                "id": "6bd51ddd1c2888f0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Personal/Downloaded Movies & Shows.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Downloaded Movies & Shows"
+                }
+              },
+              {
+                "id": "a57a8e4c85062d49",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Personal/OSAP Shopping List.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "OSAP Shopping List"
+                }
+              },
+              {
+                "id": "c470368e5b999e9e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Personal/Gym/Gym Supplies.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Gym Supplies"
                 }
               }
-            ]
+            ],
+            "currentTab": 4
           }
         ],
         "direction": "vertical"
@@ -354,8 +451,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 444.5,
-        "collapsed": true
+        "width": 444.5
       },
       "right": {
         "id": "0b4e4c266ade0393",
@@ -445,7 +541,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "file-properties",
-                  "state": {},
+                  "state": {
+                    "file": "Home Page.md"
+                  },
                   "icon": "lucide-info",
                   "title": "File properties"
                 }
@@ -474,9 +572,9 @@
           "git-vault-sync:Git Vault Sync: Review changes & sync": false
         }
       },
-      "active": "63187a18f13d07b6",
-      "mtime": "2026-08-16T22:34:36-04:00"
+      "active": "c470368e5b999e9e",
+      "mtime": "2026-09-09T13:09:11-04:00"
     }
   },
-  "active": "Personal"
+  "active": "School"
 }
