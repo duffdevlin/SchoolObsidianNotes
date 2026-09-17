@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "[\"cssclasses\":Home]",
+      "query": "[\"cssclasses\":Important]",
       "color": {
         "a": 1,
         "rgb": 14024704
@@ -40,6 +40,13 @@
       "color": {
         "a": 1,
         "rgb": 5431473
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
       }
     }
   ],

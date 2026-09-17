@@ -1,7 +1,7 @@
 ---
 tags:
 cssclasses:
-  - Home
+  - Important
 aliases:
 ---
 
