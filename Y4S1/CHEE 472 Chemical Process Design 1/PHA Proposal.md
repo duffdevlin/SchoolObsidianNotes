@@ -1,7 +1,2 @@
-# Process Description
-The process is intended to use electricity from renewable sources to produce hydrogen and extract nitrogen from the atmosphere in order to create ammonia. Using electrolysis to produce hydrogen from renewable energy sources, and nitrogen production through pressure-swing adsorption, ammonia can be produced via the Haber-Bosch process. This ammonia can then be store in pressurized or refrigerated containers, to keep it in liquid state. This ammonia will then be used in a combined cycle gas turbine to produce electricity.
-# Problem Statement
-Current clean energy storage solutions face various issues, with batteries having issues with long-term storage and lower energy density, making bulk energy transportation difficult. This was meant to be addressed by hydrogen storage, allowing transportation of large amounts of high energy density material. Ammonia may be a potential solution to these transportation and storage solutions, but currently ammonia production heavily contributes to global emissions, requiring a sustainable approach for that initial production of ammonia.
-# Objectives
-The goals of this project are to analyse the economic feasibility with regards to ammonia production, storage, and use as a clean fuel. Iterating on a potential process will be used to improve this feasibility, in the hopes of finding a method that will prove superior to current methods of energy storage and transportation in both cost and environmental impact.
-# Proposed PHA Methods
+# Responsibilities
+
