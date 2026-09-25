@@ -1,0 +1,7 @@
+- Biggest weakness?
+
+
+- Biggest strength?
+
+
+- 
