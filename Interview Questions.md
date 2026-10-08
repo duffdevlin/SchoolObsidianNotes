@@ -12,7 +12,8 @@
 
 - Time I disagreed on a decision?
 	- 
-
+- Sample explanation of something technical to a layperson
+- 
 # Questions for Interviewer
 - What kind of skills do you teach in your "classroom" and is there any thing that you try to get new employees to "unlearn"?
 - Is there options for occasionally taking a week off of travelling without taking a week off of work? In the case that something comes up that wouldn't otherwise interfere with work hours but may not fit with the travel schedule
