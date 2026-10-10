@@ -34,7 +34,7 @@ cssclasses:
 - Problem Sets
 - Midterm
 ## Quantum Mechanics
-- Midterms 1,2,3
+- Midterms
 ## Portuguese
 - Find literally any information at all
 # Winter Term

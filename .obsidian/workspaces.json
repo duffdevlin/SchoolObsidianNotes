@@ -34,30 +34,6 @@
                 }
               },
               {
-                "id": "638b389a49781c45",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Home Page.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Home Page"
-                }
-              },
-              {
                 "id": "2b10d0d4ec30b095",
                 "type": "leaf",
                 "state": {
@@ -104,9 +80,129 @@
                   "icon": "lucide-file",
                   "title": "Interview Questions"
                 }
+              },
+              {
+                "id": "47d6e380836d23d1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Job Interview Talking Points.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Job Interview Talking Points"
+                }
+              },
+              {
+                "id": "072e16d5bac1e3e7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Y4S1/CHEE 472 Chemical Process Design 1/Potential Process Hazards.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Potential Process Hazards"
+                }
+              },
+              {
+                "id": "48013d9a44723405",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "To Schedule.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "To Schedule"
+                }
+              },
+              {
+                "id": "2cb0b37477540e0e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Home Page.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Home Page"
+                }
+              },
+              {
+                "id": "85e14c459782be13",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Book Off.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Book Off"
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 6
           }
         ],
         "direction": "vertical"
@@ -286,8 +382,8 @@
           "git-vault-sync:Git Vault Sync: Review changes & sync": false
         }
       },
-      "active": "638b389a49781c45",
-      "mtime": "2026-10-04T15:54:27-04:00"
+      "active": "2cb0b37477540e0e",
+      "mtime": "2026-10-09T20:16:16-04:00"
     },
     "Personal": {
       "main": {
@@ -627,5 +723,5 @@
       "mtime": "2026-10-05T13:08:07-04:00"
     }
   },
-  "active": "School"
+  "active": "Personal"
 }
