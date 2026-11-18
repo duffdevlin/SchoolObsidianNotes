@@ -4,5 +4,6 @@
   "cssTheme": "Obsidian Nord",
   "enabledCssSnippets": [
     "WideView"
-  ]
+  ],
+  "showRibbon": true
 }
