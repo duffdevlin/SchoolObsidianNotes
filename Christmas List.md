@@ -1,0 +1,6 @@
+- [Embosser](https://laddstamps.com/en-ca/products/book-embosser-zodiac-aquarius?variant=50549585412405)
+- [Space Heater](https://www.amazon.ca/gp/product/B0C6FCKQML/ref=ox_sc_act_title_1?smid=A3DWYIK6Y9EEQB&th=1)
+- [Body Lotion](https://www.amazon.ca/Palmers-Butter-Formula-Vitamin-Lotion/dp/B0009F3O8Q/ref=sr_1_28?crid=1KYASPNDP3UMF&dib=eyJ2IjoiMSJ9.84TYULABt8BaqxL8iBQJ_yBEBi9KLgkU_iZFHndeBrJ2W-5zS5-u7XaB-Pgu1tJjEPamiiRv22l_Ay-I_4Oxd4RGc0LOo19fI4MyRw3EMO_L5mWuZNqaFULELaqYhfr2niv8k08Vl7JsljyxNq2z8H6gDeGlclsqDIBnTnw35NfRat90RkXRu5AvShFeY2rCHxqEw9XmMAN08TFN-5VTCEXF1CmYI764MjZrs2qvFcHvSuTQwN0VK2Y8UnnxJs_60iBWfliqxMC5bJAnOo4oDEtBFyC6gEU30LEk8iohHnI.zI6-SPfcdBB-jQGbMdxzU2B-b3teGcXzOuEb8MZuM_0&dib_tag=se&keywords=body%2Blotion%2Bsensitive%2Bskin&qid=1795144998&sprefix=body%2Blotion%2Bsensitive%2Bskin%2Caps%2C150&sr=8-28&th=1)
+- Dollar Store Bath Mats
+- [Protein Powder](https://www.amazon.ca/dp/B01789VSRE?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
+- 
